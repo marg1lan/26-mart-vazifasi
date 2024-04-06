@@ -1,0 +1,53 @@
+.paragref{
+  font-size: 50px;
+  text-align: center;
+  margin-top: 20px;
+  font-weight: 700;
+}
+.img img{
+  width: 198px;
+  height: 198px;
+  border-radius: 4px;
+}
+.cards{
+  margin-left: 170px;
+  margin-bottom: 10px;
+  margin-top: 50px;
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+.price h2{
+  font-size: 20px;
+  font-weight: 200;
+  color: black;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.desc h3{
+  font-size: 18px;
+  letter-spacing: 1px;
+  color: rgb(47, 47, 65);
+}
+.one-card{
+  cursor: pointer;
+  border: 2px solid lightgray;
+  padding: 20px;
+  border-radius: 6px;
+  width: 250px;
+  background: lightgray;
+}
+.modal{
+  margin-left: 500px;
+  font-size: 20px;
+  margin-top: 50px;
+  padding: 20px;
+}
+.modal span{
+  cursor: pointer;
+  font-size: 30px;
+}
+.desc p{
+
+}
